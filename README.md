@@ -1,8 +1,6 @@
 # DIU18
 Prácticas Diseño Interfaces de Usuario 2017-18 (Agenda cultural)
 
-GitHub Pages: https://franfermi.github.io/Disenio-de-Interfaces-de-Usuario_DIU/
-
 En esta práctica vamos a analizar el uso de herramientas para el diseño del IU en Web. 
 Para ello usaremos los bocetos de la práctica anterior. Vamos a considerar los siguientes aspectos: 
 
@@ -23,4 +21,21 @@ Pasos:
 * Utilizar herramientas de desarrollo Web. Utilizaremos el entorno Bootstrap
 * Publicar en GitHub haciendo un FORK de este proyecto. 
 
+GitHub Pages: https://franfermi.github.io/Disenio-de-Interfaces-de-Usuario_DIU/
 
+Integrantes:
+
+>Ignacio Irurita Contreras
+  
+>Francisco Fernández Millán
+  
+Grupo A1:
+
+>Puntarrón
+
+Comentarios:
+
+>Hemos cambiado el pie de página porque nos resulta más adecuado el que hemos implementado.
+
+>En la página de inicio aparecen ejemplos de los últimos `eventos.html`, así como ejemplos de 
+imágenes en `galeria.html`.
